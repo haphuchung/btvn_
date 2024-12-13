@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    char text[] = "phungvanvuong";
+    char text[] = "haphuchung";
     int count,i, j;
     for(i=0;text[i] !='\0';i++){
         count = 1;
