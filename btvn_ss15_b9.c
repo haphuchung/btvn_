@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char text[] = "Phung Van Vuong";  
+    char text[] = "Ha Phuc Hung";  
     char deleteChar;              
     printf("nhap ki tu muon xoa: ");
     scanf("%c", &deleteChar);  
